@@ -1,0 +1,24 @@
+body {
+    font-family: sans-serif;
+    text-align: center;
+    padding: 20px;
+    background: #f2f2f2;
+}
+#Div {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 15px;
+    margin-top: 20px;
+}
+
+.card {
+    width: 150px;
+    height: 100px;
+    background-color: lightgray;
+    color: blanchedalmond;
+    padding: 10px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+    font-weight: bold;
+}
